@@ -1,1 +1,12 @@
+@font-face {
+    font-family: GameBoy;
+    src: url("typefaces/Early\ GameBoy.ttf") format("truetype");
+}
 
+h1 {
+    font-family: GameBoy;
+    font-size: 50px;
+    color: #001e00;
+    text-align: center;
+    text-shadow: 0 0 10px #ccff00, 0 0 20px #00FF00, 0 0 5px #d9ff9d, 0 0 5px #b8eda0;
+}
